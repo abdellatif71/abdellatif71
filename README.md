@@ -2,8 +2,8 @@
 
 👋 Hi, I’m @abdellatif71
 
-👀 I’m interested in web and software development, especially frontend technologies like React.js, Next.js, and Framer. I also enjoy exploring AI in music and development environments.
-🌱 I’m currently learning advanced Python and creating visually impressive projects with Processing and Framer.
+👀 I’m interested in web and software development, especially frontend technologies like React.js, Next.js, Framer,Shopware6,Laravel and more...:). I also enjoy exploring AI in music and development environments.
+🌱 I’m currently learning advanced Framer,Shopware ....Includes an overview of interests in Framer, Shopware, Laravel, and Next.js, as well as current learning goals focused on advanced Framer, Shopware, and creating visually impressive projects.
 💞️ I’m looking to collaborate on innovative web development projects and e-commerce platforms that push boundaries.
 📫 How to reach me: abouabdellatif.9@gmail.com or +212 6 04 73 64 96.
 😄 Pronouns: He/Him
